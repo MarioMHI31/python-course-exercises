@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+h1 {
+    color: #333;
+}
+
+.element {
+    font-family: sans-serif;
+    width: 60px;
+    font-weight: bolder;
+}
+
+.element {
+    font-family: sans-serif;
+    width:20px;
+    background-color: purple;
+}
+
+body {
+    background-image: url("https://i.ibb.co/WQGtjx8/f89ff86a6e947dee22fba5f7c15ab752.jpg"); /* Înlocuiește cu link-ul corect */
+    background-size: cover; /* Acoperă tot ecranul */
+    background-position: center; /* Centrează imaginea */
+    background-repeat: no-repeat; /* Evită repetarea imaginii */
+    background-attachment: fixed; /* Face ca imaginea să rămână fixă când derulezi */
+}
